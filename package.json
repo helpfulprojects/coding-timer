@@ -1,10 +1,15 @@
 {
-  "name": "coding-timer",
+  "name": "coding-timer-example",
   "displayName": "coding-timer",
+  "publisher": "debugdomain",
   "description": "Start a timer while coding and get notified when it ends.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helpfulprojects/coding-timer.git"
   },
   "categories": [
     "Other"
