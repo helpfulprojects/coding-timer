@@ -1,7 +1,7 @@
 # coding-timer README
 ## Features
 
-Start at any moment a 30 minute timer. Once the timer is over you will be notified and can take a break.
+Start at any moment a minute timer. Once the timer is over you will be notified and can take a break.
 
 ## Requirements
 
